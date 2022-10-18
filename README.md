@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Najjar</h1>
 <h3 align="center">A passionate full stack web developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Node js, express, TypeScript, OOP and SOLID principles.**
+- 🌱 I’m currently learning **Node js, Express, TypeScript, MongoDB, OOP and SOLID principles.**
 
 - 📫 How to reach me **matheusnajjar@gmail.com**
 
