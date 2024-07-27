@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheus Najjar</h1>
-<h3 align="center">A passionate full stack web developer from Brazil.</h3>
+<h1 align="center">Hi 👋, I'm Matheus Najjar de Lima</h1>
+<h3 align="center">A passionate full-stack web developer from Brazil living in Canada.</h3>
 
 - 🌱 I’m currently learning **Node js, Express, TypeScript, MongoDB, OOP and SOLID principles.**
 
